@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gabriel Pontes.
 
-- 🌱 Estou Cursando Sistemas de Imformação.
+- 🌱 Estou Cursando Sistemas de Informação.
 - 🔭 Hoje trabalho com Python, JavaScript e Java.
 
 Redes Sociais 📱:
